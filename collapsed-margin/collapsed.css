@@ -1,0 +1,12 @@
+.sec-1{
+    height: 50px;
+    background-color: palegreen;
+    margin-bottom: 50px;
+    position: relative;
+}
+.sec-2{
+    height: 50px;
+    background-color: tomato;
+    margin-top: 20px;
+    position: relative;
+}

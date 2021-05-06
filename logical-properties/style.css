@@ -1,0 +1,11 @@
+.box{
+    width: 400px;
+    height: 400px;
+    writing-mode: horizontal-tb;
+    border-block-start: red 5px dashed;
+    border-block-end: black 5px dashed;
+    border-inline-start: blue 5px dashed;
+    border-inline-end: salmon 5px dashed;
+    border-radius: 50px;
+    margin: 5rem auto 0;
+}

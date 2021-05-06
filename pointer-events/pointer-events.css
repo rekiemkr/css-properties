@@ -1,0 +1,23 @@
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    margin: 10px;
+    padding: 30px;
+    background-color: salmon;
+    color: black;
+    text-decoration: none;
+}
+.none{
+    pointer-events: none;
+}
+.fill{
+    pointer-events: fill;
+}
+.stroke{
+    pointer-events: stroke;
+}
+.painted{
+    pointer-events: painted;
+}
